@@ -9,3 +9,5 @@ This is a learning exercise from Lynda.com with Shaun Bryant on the essentials o
 * Working with modify objects commands scale, rotate,   
   arrays, offset, mirror, trim, extent, stretch, lengthen,
   break, join, fillet, chamfer, divide, measure, poly editing, and spline editing
+* Working with accuracy commands grid, snap, coordinates,
+  polar tracking, dynamic input, object snaps, object-snap tracking ISODRAFT with isometric
