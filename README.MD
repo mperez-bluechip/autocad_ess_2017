@@ -4,3 +4,5 @@ This is a learning exercise from Lynda.com with Shaun Bryant on the essentials o
 
 * Created new metric template file MyTemplate.dwt
 * Working with zoom, pan, mouse, ViewCube, Nav, and layouts
+* Working with lines, circles, arcs, ellipses, polys,
+  splines, rectangles, points, and donuts
