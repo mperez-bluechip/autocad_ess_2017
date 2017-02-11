@@ -12,3 +12,4 @@ This is a learning exercise from Lynda.com with Shaun Bryant on the essentials o
 * Working with accuracy commands grid, snap, coordinates,
   polar tracking, dynamic input, object snaps, object-snap tracking, and ISODRAFT with isometric
 * Working with hatches and gradients
+* Working with text
