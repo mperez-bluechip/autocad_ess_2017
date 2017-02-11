@@ -10,4 +10,4 @@ This is a learning exercise from Lynda.com with Shaun Bryant on the essentials o
   arrays, offset, mirror, trim, extent, stretch, lengthen,
   break, join, fillet, chamfer, divide, measure, poly editing, and spline editing
 * Working with accuracy commands grid, snap, coordinates,
-  polar tracking, dynamic input, object snaps, object-snap tracking ISODRAFT with isometric
+  polar tracking, dynamic input, object snaps, object-snap tracking, and ISODRAFT with isometric
