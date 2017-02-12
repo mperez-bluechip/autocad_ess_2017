@@ -14,3 +14,4 @@ This is a learning exercise from Lynda.com with Shaun Bryant on the essentials o
 * Working with hatches and gradients
 * Working with text
 * Working with dimensions
+* Working with layers and layers management
