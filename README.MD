@@ -16,3 +16,4 @@ This is a learning exercise from Lynda.com with Shaun Bryant on the essentials o
 * Working with dimensions
 * Working with layers and layers management
 * Working with blocks and WBLOCK
+* Working with tables
