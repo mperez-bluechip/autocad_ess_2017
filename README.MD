@@ -18,3 +18,5 @@ This is a learning exercise from Lynda.com with Shaun Bryant on the essentials o
 * Working with blocks and WBLOCK
 * Creating and working with attributes for blocks
 * Working with tables
+* Working with layouts, viewports, titleblocks,
+  text styles, annotations, and rev clouds
